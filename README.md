@@ -1,17 +1,17 @@
 [![An image of @thecoderavinash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thecoderavinash)](https://holopin.io/@thecoderavinash)
 
-<h1 align="center">Hi 👋, I'm Avinash Kumar Mallick</h1>
+<h1 align="center">Hello 👋, I'm Avinash Kumar Mallick</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width= "400" src= "https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C** , **JS**
 
 - 💬 Ask me about **Front-end Development**
 
 - 📫 How to reach me **avinashkm152@gmail.com**
 - 😄 Pronouns: he/him
 
-- ⚡ Fun fact: Did you know that the first YouTube video was that of a zoo?
+- ⚡ Fun fact: Did you know that the largest army surrender was done by Pakistani(93,000) during Indo-Pak War 1971?
 
 
 
