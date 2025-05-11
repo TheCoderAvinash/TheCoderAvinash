@@ -45,7 +45,7 @@
 
 [![TheCoderAvinash's Streak](https://github-readme-streak-stats.herokuapp.com?user=TheCoderAvinash)](https://git.io/streak-stats)--->
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/avinashmallick272?theme=dark&font=Reem%20Kufi)
+![LeetCode Stats](https://leetcard.jacoblin.cool/avinashmallick27?theme=dark&font=Reem%20Kufi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
